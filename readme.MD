@@ -1,7 +1,7 @@
 # Maratona de programação
 
 ### Objetivo
-Esse projeto tem por objetivo treinar os conceitos de filas e pilhas, utilizando os métodos disponiveis na linguagem escolhida.
+Esse projeto tem por objetivo treinar os conceitos de filas e pilhas, utilizando os métodos disponíveis na linguagem escolhida.
 
 ### Desafio
 O principal desafio é fazer a comparação de strings onde o "#" representa a ação de apagar (apagando o caracter anterior e ele mesmo) e retornando True ou False para strings iguais ou diferentes respectivamente.
@@ -19,3 +19,4 @@ node start.js %texto1% %texto2%
 
 * Separar as duas strings por um espaço.
 * O console retornará True ou False verificando a igualdade.
+
