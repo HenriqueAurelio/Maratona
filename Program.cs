@@ -1,11 +1,9 @@
 ﻿Console.Write("Insira suas string separadas por um espaço: ");
-string Palavras = Console.ReadLine();
+string Textos = Console.ReadLine();
 
-Console.WriteLine(Palavras);
+Lista lista = new();
 
-string[] Texto = Palavras.Split(' ');
+Array TextosSeparados = lista.Separar(Textos);
 
-string PrimeiraPalavra = Texto[0];
-string SegundaPalavra = Texto[1];
 
 Console.ReadLine();
