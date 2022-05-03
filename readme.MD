@@ -4,7 +4,7 @@
 Esse projeto tem por objetivo treinar os conceitos de filas e pilhas, utilizando os métodos disponíveis na linguagem escolhida.
 
 ### Desafio
-O principal desafio é fazer a comparação de strings onde o "#" representa a ação de apagar (apagando o caracter anterior e ele mesmo) e retornando True ou False para strings iguais ou diferentes respectivamente.
+O principal desafio é fazer a comparação de strings, onde o "#" representa a ação de apagar (apagando o caracter anterior e ele mesmo) e retornando True ou False para strings iguais ou diferentes respectivamente.
 
 ### Javascript!?
 Optamos por utilizar javascript por ser a solução mais rápida para pequenos projetos e de fácil implementação.
